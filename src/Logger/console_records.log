@@ -1,0 +1,8 @@
+2020-12-23 00:00:28,301: werkzeug:  * Debugger is active!
+2020-12-23 00:00:28,309: werkzeug:  * Debugger PIN: 254-891-365
+2020-12-23 00:00:28,352: werkzeug:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-12-23 00:00:45,136: werkzeug:  * Detected change in 'C:\\Users\\FURQHAN\\Desktop\\Py\\f2w\\src\\SearchEngine\\view.py', reloading
+2020-12-23 00:00:58,519: werkzeug:  * Restarting with stat
+2020-12-23 00:00:59,569: werkzeug:  * Debugger is active!
+2020-12-23 00:00:59,584: werkzeug:  * Debugger PIN: 254-891-365
+2020-12-23 00:00:59,600: werkzeug:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
